@@ -1,7 +1,7 @@
 import React from 'react';
 
 const DashboardPage = () => {
-  return <div className="font-poppins">dashboard</div>;
+  return <div className="font-poppins h-full">dashboard</div>;
 };
 
 export default DashboardPage;
